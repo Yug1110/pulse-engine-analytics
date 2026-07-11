@@ -1,0 +1,12 @@
+# Go binaries and database
+backend/analytics-backend
+*.db
+*.db-journal
+
+# Next.js build output & dependencies
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# OS files
+.DS_Store
