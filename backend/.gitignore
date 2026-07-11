@@ -1,0 +1,13 @@
+# Runtime / build artifacts
+/data/
+*.db
+*.db-wal
+*.db-shm
+/bin/
+/dist/
+*.exe
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
